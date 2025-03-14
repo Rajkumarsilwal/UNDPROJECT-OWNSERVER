@@ -1,0 +1,1 @@
+For an interview assessment, I developed a React-based project that utilized its own server instead of the provided API, which was inaccessible. The project was completed within 5 hours and incorporated key performance optimizations, including lazy loading and pagination, to enhance browsing efficiency.
